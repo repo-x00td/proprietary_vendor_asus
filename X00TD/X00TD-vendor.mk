@@ -1307,7 +1307,6 @@ PRODUCT_PACKAGES += \
     WfdService \
     dpmserviceapp \
     ims \
-    qcrilmsgtunnel \
     PowerOffAlarm \
     QFingerprintService \
     TimeService \
