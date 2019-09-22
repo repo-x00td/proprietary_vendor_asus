@@ -76,6 +76,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00TD/proprietary/lib64/com.qualcomm.qti.uceservice@2.0.so:system/lib64/com.qualcomm.qti.uceservice@2.0.so \
     vendor/asus/X00TD/proprietary/lib64/extractors/libmmparser.so:system/lib64/extractors/libmmparser.so \
     vendor/asus/X00TD/proprietary/lib64/fm_helium.so:system/lib64/fm_helium.so \
+    vendor/asus/X00TD/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
+    vendor/asus/X00TD/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/asus/X00TD/proprietary/lib64/lib-imscamera.so:system/lib64/lib-imscamera.so \
     vendor/asus/X00TD/proprietary/lib64/lib-imsvideocodec.so:system/lib64/lib-imsvideocodec.so \
     vendor/asus/X00TD/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
